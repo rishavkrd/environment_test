@@ -31,6 +31,7 @@ jobs:
         run: |
           gem install bundler
           bundler install
+          bundle install
       - name: Create database
         run: |
           bundler exec rails db:create RAILS_ENV=test
