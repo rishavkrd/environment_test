@@ -5,13 +5,13 @@
         "lines": [
           null,
           1,
-          1,
-          1,
-          1,
-          1,
-          1,
-          1,
-          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
           null,
           null,
           null
@@ -24,8 +24,8 @@
           1,
           1,
           null,
-          1,
-          1,
+          0,
+          0,
           null,
           null,
           null,
@@ -46,21 +46,19 @@
           null,
           null,
           null,
-          1,
+          0,
           null,
           0,
           0,
           null,
-          1,
+          0,
           null,
-          1,
-          null,
-          null,
+          0,
           null,
           null,
-          1,
           null,
           null,
+          0,
           null,
           null,
           null,
@@ -76,10 +74,12 @@
           null,
           null,
           null,
-          1,
           null,
           null,
-          1,
+          0,
+          null,
+          null,
+          0,
           null,
           null,
           null
@@ -339,7 +339,7 @@
           null,
           null,
           1,
-          2,
+          0,
           null,
           null,
           null,
@@ -352,19 +352,8 @@
         "lines": [
           1,
           1,
+          1,
           null,
-          null
-        ]
-      },
-      "/csce431/test_app/app/helpers/application_helper.rb": {
-        "lines": [
-          1,
-          null
-        ]
-      },
-      "/csce431/test_app/app/helpers/books_helper.rb": {
-        "lines": [
-          1,
           null
         ]
       },
@@ -372,118 +361,24 @@
         "lines": [
           null,
           1,
-          1,
-          1,
-          2,
-          null,
-          null,
-          1,
-          1,
-          null,
-          null,
-          1,
-          1,
-          1,
-          null,
-          null,
-          null
-        ]
-      },
-      "/csce431/test_app/app/models/book.rb": {
-        "lines": [
-          1,
-          1,
-          null
-        ]
-      },
-      "/csce431/test_app/app/models/application_record.rb": {
-        "lines": [
-          1,
-          1,
-          null
-        ]
-      },
-      "/csce431/test_app/app/controllers/books_controller.rb": {
-        "lines": [
-          1,
-          1,
-          null,
-          null,
-          1,
-          1,
-          null,
-          null,
-          null,
-          1,
-          null,
-          null,
-          null,
-          1,
-          1,
-          null,
-          null,
-          null,
-          1,
-          null,
-          null,
-          null,
-          1,
-          1,
-          null,
-          1,
-          1,
-          2,
-          1,
-          null,
-          0,
-          0,
-          null,
-          null,
-          null,
-          null,
-          null,
-          1,
-          0,
           0,
           0,
           0,
           null,
+          null,
           0,
           0,
           null,
-          null,
-          null,
-          null,
-          null,
-          1,
-          0,
           null,
           0,
           0,
           0,
           null,
           null,
-          null,
-          1,
-          null,
-          1,
-          1,
-          null,
-          null,
-          null,
-          1,
-          1,
-          null,
-          null
-        ]
-      },
-      "/csce431/test_app/app/controllers/application_controller.rb": {
-        "lines": [
-          1,
           null
         ]
       }
     },
-    "timestamp": 1662990915
+    "timestamp": 1663044395
   }
 }
